@@ -8,6 +8,7 @@ class ShareYourSetupApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
