@@ -1,2 +1,2 @@
 # ShareYourSetup
-Hello World :D
+Hello World
